@@ -20,4 +20,4 @@
 - Tampere University of Applied Sciences - Bachelor of Engineering in Software Engineering (ongoing)
 
 
-Let's make some awesome software together! 🚀
+## Let's make some awesome software together! 🚀
