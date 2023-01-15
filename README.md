@@ -25,7 +25,7 @@
 ### GitHub Highlights: :blossom:
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilsto&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+  <img align="center" src="![Emil's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilsto&show_icons=true&theme=transparent)" />
 </a>
 <a href="">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=emilsto&theme=material-palenight"/>
