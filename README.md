@@ -19,17 +19,5 @@
 ## Education 🎓
 - Tampere University of Applied Sciences - Bachelor of Engineering in Software Engineering (ongoing)
 
-## GitHub highlights :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilsto)](https://github.com/anuraghazra/github-readme-stats)
-<a href="">
-  <img align="center" src="![Emil's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilsto&show_icons=true&theme=transparent)" />
-</a>
-<a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=emilsto&theme=material-palenight"/>
-</a>
-
-
-
 
 ## Let's make some awesome software together! 🚀
