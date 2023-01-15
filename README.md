@@ -19,5 +19,19 @@
 ## Education 🎓
 - Tampere University of Applied Sciences - Bachelor of Engineering in Software Engineering (ongoing)
 
+## GitHub highlights :
+
+
+### GitHub Highlights: :blossom:
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilsto&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</a>
+<a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=emilsto&theme=material-palenight"/>
+</a>
+
+
+
 
 ## Let's make some awesome software together! 🚀
